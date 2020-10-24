@@ -10,10 +10,10 @@ How to use:
 6. run it: 'docker-compose up-d'
 
 Explanation of the bash script arguments:
-    destinationdir = the folder containing all the files needed to run the Docker container
-    nc_user = the nextcloud administor user
-    nc_password = password for this user
-    nc_port = port exposed by the container
+- destinationdir = the folder containing all the files needed to run the Docker container
+- nc_user = the nextcloud administor user
+- nc_password = password for this user
+- nc_port = port exposed by the container
 
 
 TBD:
