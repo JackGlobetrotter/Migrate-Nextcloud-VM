@@ -19,3 +19,4 @@ Explanation of the bash script arguments:
 TBD:
 1. Implement SSL
 2. Change bash script to include 'help' section and to be more versatile
+3. Add redis
